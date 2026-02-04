@@ -1,0 +1,19 @@
+2024-01-15 10:23:45 INFO User login successful for user: john_doe
+2024-01-15 10:23:46 ERROR Database connection failed
+2024-01-15 10:23:47 INFO Attempting to reconnect to database
+2024-01-15 10:23:50 INFO Database connection successful
+2024-01-15 10:24:12 WARNING High memory usage detected: 85%
+2024-01-15 10:24:13 INFO Cache cleared successfully
+2024-01-15 10:25:01 ERROR File not found: /var/log/app.log
+2024-01-15 10:25:02 WARNING Retrying file operation
+2024-01-15 10:25:05 INFO File operation completed successfully
+2024-01-15 10:26:30 INFO User logout for user: john_doe
+2024-01-15 10:27:15 INFO User login successful for user: jane_smith
+2024-01-15 10:27:20 ERROR Invalid credentials for user: admin
+2024-01-15 10:27:21 WARNING Multiple failed login attempts detected
+2024-01-15 10:28:00 INFO Security alert triggered
+2024-01-15 10:28:15 INFO Database backup started
+2024-01-15 10:30:45 INFO Database backup completed successfully
+2024-01-15 10:31:20 ERROR Network timeout during API call
+2024-01-15 10:31:25 INFO Retrying API call
+2024-01-15 10:31:30 INFO API call successful
